@@ -1,2 +1,0 @@
-Loss functions measure how well a model's predictions match the true values, guiding the optimizer to improve accuracy. 
-Choosing the right loss is crucial, especially in medical AI tasks where precision is vital.
